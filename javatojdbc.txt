@@ -1,0 +1,12 @@
+Q1. Write the steps involved in connecting any java application with the database using JDBC
+A1. 
+step 1: download the jar file of jdbc driver and set that jar file in the classpath of our java application.
+
+step 2: then load the main class of jdbc driver into memory.
+
+step 3:write the conncetion url in
+
+step 4: Make a connection using connection class.
+
+step 5:after performing CRUD operation close the connection. 
+package sb101mysqllink;
